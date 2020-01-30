@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers|Merriweather+Sans&display=swap');
+body{
+    background-color: black;
+    color: white;
+    
+}
+#logo{
+    background: linear-gradient(-213deg,#1e60bd 22%,#00adef 100%);
+    padding: 10px;
+    font-family: 'Bangers', cursive;
+    font-size: 30px;
+    border-radius: 30px;
+}
+#body-start{
+    margin-top: 30px;
+    text-align: center;
+}
+#fetch{
+    font-family: 'Bangers', sans-serif;
+    padding: 10px 15px 10px 15px;
+    margin-top: 20px;
+    
+}
+.get-data{
+    font-size: 50px;
+    font-family: 'Bangers', sans-serif;
+    text-align: center;
+}
+.row{
+    margin-top: 30px;
+}
+.table-title{
+    padding: 20px;
+    font-family: 'Bangers', sans-serif;
+}
+.dashboard{
+    padding: 0px;
+}
+.data-style{
+    background-color: #e83333;
+    color: white;
+}
+#vote{
+    font-family: 'Bangers', sans-serif;
+    padding: 10px 15px 10px 15px;
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
+.ready-vote{
+    font-size: 50px;
+    font-family: 'Bangers', sans-serif;
+    text-align: center;
+    margin-top: 25px;
+}
+.data-style-2{
+    background-color: green;
+}
+.data-style-3{
+    background-color: #339ae8;
+}
+.data-style-4{
+    background-color: #d033e8;
+}
+.data-style-5{
+    background-color: #00cccc;
+}
+.data-style-6{
+    background-color: #ffb366;
+}
+.modal-title{
+    color: green;
+    font-family: 'Bangers', sans-serif;
+    background-color: white;
+}
+.form-title{
+    color: green;
+    text-align:left;
+}
+.form-group{
+    margin: 0 auto;
+    background-color: black;
+    padding: 50px;
+}
+#form-button{
+    margin-top: 20px;
+}
+#form-title{
+    color: green;
+    text-align: center;
+    margin-bottom: 0px;
+    font-family: 'Bangers', sans-serif;
+}
+.modal-content{
+    background-color: black;
+}
+.label{
+    margin-right: 100%;
+}
+.modal-header{
+    background-color: white;
+}
+.gold-box{
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: 'Bangers', sans-serif;
+}
+.gold-counter{
+    border: 2px solid white;
+    padding: 5px 10px 5px 10px;
+    font-size: 30px;
+}
+#logout{
+    font-family: 'Bangers', sans-serif;
+    padding: 10px 15px 10px 15px;
+    margin-top: 20px;
+    
+}
